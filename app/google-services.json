@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "790030569410",
+    "firebase_url": "https://covid-resource-app-yhacks.firebaseio.com",
+    "project_id": "covid-resource-app-yhacks",
+    "storage_bucket": "covid-resource-app-yhacks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790030569410:android:c33c4772c749188827d05b",
+        "android_client_info": {
+          "package_name": "com.example.covidresourceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790030569410-cj0m9sioakog3d31tk6vd40mksohd52p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.covidresourceapp",
+            "certificate_hash": "fe2f16d316c29235f88fd00ed550cabb5430b387"
+          }
+        },
+        {
+          "client_id": "790030569410-s02kjnuq646jjoj7pcuedsqsadgjq1cp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADrcg2XszGG-nntzHUt-jTAkNioS9204Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790030569410-s02kjnuq646jjoj7pcuedsqsadgjq1cp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
